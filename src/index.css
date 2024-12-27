@@ -80,3 +80,9 @@
  margin: auto !important;
  width: 50% !important;
 }
+.bishoftuEventSec{
+  width: 80%;
+  display: flex;
+  margin: auto;
+  flex-wrap: wrap;
+}
