@@ -10,6 +10,9 @@ import BishoftuWellFacilities from './components/bishoftuWellFacilities';
 import BishofDiningReservation from './components/bishoftuDiningReservation';
 import BishoftuEventVenu from './components/bishoftuEventVeneu';
 import BishoftuEventVenuListing from './components/bishoftuEventVenuList';
+import BishoftuEventInquiry from './components/bishoftuEventInquiry';
+import BishoftuGallery from './components/bishoftuGallery';
+import BishoftuGiftListing from './components/bishoftuGiftListing';
 
 
 function App() {
@@ -23,6 +26,9 @@ function App() {
     <BishoftuWellFacilities/>
     <BishofDiningReservation/>
     <BishoftuEventVenuListing/>
+    <BishoftuEventInquiry/>
+    <BishoftuGallery/>
+    <BishoftuGiftListing/>
    
       
   </div>

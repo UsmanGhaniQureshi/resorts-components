@@ -86,3 +86,7 @@
   margin: auto;
   flex-wrap: wrap;
 }
+
+.gallery-item-bishoftu img{
+  padding: 5%;
+}
