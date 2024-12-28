@@ -40,7 +40,6 @@
 
 
 }
-
 .card_txt {
 
   font-size: 11px !important;
@@ -76,9 +75,16 @@
   padding: 5%;
   
 }
+.resort_content1{
+  flex: 1;
+  
+  padding: 1%;
+
+
+}
 .resort_card_divider{
  margin: auto !important;
- width: 50% !important;
+ width: 100% !important;
 }
 .bishoftuEventSec{
   width: 80%;

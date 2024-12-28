@@ -3,7 +3,7 @@ import BishoftuGiftCard from "./bishoftuGiftCard";
 function BishoftuGiftListing() {
     return (
         <div>
-            <h1>Featured</h1>
+            <h1 style={{width:'78%', margin:'auto'}}>Featured</h1>
 
         <div className='bishoftuEventSec'>
             <div style={{
